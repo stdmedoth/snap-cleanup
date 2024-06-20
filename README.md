@@ -102,6 +102,3 @@ Contributions to this script are welcome! If you have suggestions or improvement
 
 This script is open-source and licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this `README.md` further according to your specific needs or preferences.
