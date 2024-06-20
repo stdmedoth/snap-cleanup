@@ -1,7 +1,3 @@
-Sure, here’s a comprehensive `README.md` for your Bash script:
-
----
-
 # Snap Cleanup Script
 
 This script is designed to help you manage and clean up old revisions of snaps on your system. It removes all disabled snap revisions to free up space and keep your system tidy.
